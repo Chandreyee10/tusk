@@ -9,6 +9,9 @@ This is for testing purpose.
 5.Papaya
 
 
+6.Mango
+7.Strawberry
+
 Thank you :)
 
 Final changes
